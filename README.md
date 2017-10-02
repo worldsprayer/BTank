@@ -1,4 +1,4 @@
-# BTank
+﻿# BTank
 Second attempt at BattleTank Unreal Section
 ### 1 Intro, Notes & Section 4 Assets ###
 
@@ -24,3 +24,4 @@ Second attempt at BattleTank Unreal Section
 + We will use their default UnrealEngine **.gitignore**
 + We’ll then “clone” this repository to our machine 
 + How to use a **readme.md** with markdown*
++ Pushing this readme to Github for practice.
